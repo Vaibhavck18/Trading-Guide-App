@@ -70,11 +70,11 @@ Trading-Guide-App/
 
 | Home Page | Stock Analysis | Stock Forecast |
 |-----------|----------------|----------------|
-| ![Home](assets/Trading-Guide-App.png) | ![Stock](assets/Stock-Analysis.png) | ![Forecast](assets/Stock-Prediction.png) |
+| ![Home](assets/home_page.png) | ![Stock](assets/stock_snalysis.png) | ![Forecast](assets/prediction.png) |
 
 | Portfolio | Model Comparison | CAPM |
 |-----------|------------------|------|
-| ![Portfolio](assets/Portfolio-Analysis.png) | ![Model](assets/Model-Comparison.png) | ![CAPM](assets/CAPM.png) |
+| ![Portfolio](assets/portfolio.png) | ![Model](assets/model_comparison.png) | ![CAPM](assets/capm_return.png) | ![CAMP](assets/capm_beta.png) |
 
 ---
 
